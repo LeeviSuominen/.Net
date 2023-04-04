@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Hirsipuupeli": {
+      "commandName": "Project",
+      "commandLineArgs": "--file sanat.txt"
+    }
+  }
+}
