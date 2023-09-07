@@ -1,0 +1,80 @@
+C:\SQL Code\TodoAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\SQL Code\TodoAPI\bin\Debug\net6.0\appsettings.json
+C:\SQL Code\TodoAPI\bin\Debug\net6.0\TodoAPI.exe
+C:\SQL Code\TodoAPI\bin\Debug\net6.0\TodoAPI.deps.json
+C:\SQL Code\TodoAPI\bin\Debug\net6.0\TodoAPI.runtimeconfig.json
+C:\SQL Code\TodoAPI\bin\Debug\net6.0\TodoAPI.dll
+C:\SQL Code\TodoAPI\bin\Debug\net6.0\TodoAPI.pdb
+C:\SQL Code\TodoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\SQL Code\TodoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SQL Code\TodoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SQL Code\TodoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\TodoAPI.csproj.AssemblyReference.cache
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\TodoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\TodoAPI.AssemblyInfoInputs.cache
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\TodoAPI.AssemblyInfo.cs
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\TodoAPI.csproj.CoreCompileInputs.cache
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\staticwebassets\msbuild.TodoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.TodoAPI.props
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TodoAPI.props
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TodoAPI.props
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\scopedcss\bundle\TodoAPI.styles.css
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\TodoAPI.csproj.CopyComplete
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\TodoAPI.dll
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\refint\TodoAPI.dll
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\TodoAPI.pdb
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\TodoAPI.genruntimeconfig.cache
+C:\SQL Code\TodoAPI\obj\Debug\net6.0\ref\TodoAPI.dll
+C:\SQL Code\TodoAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\SQL Code\TodoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\SQL Code\TodoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SQL Code\TodoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\SQL Code\TodoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SQL Code\TodoAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\SQL Code\TodoAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\SQL Code\TodoAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\bin\Debug\net6.0\TodoAPI.exe
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\bin\Debug\net6.0\TodoAPI.deps.json
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\bin\Debug\net6.0\TodoAPI.runtimeconfig.json
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\bin\Debug\net6.0\TodoAPI.dll
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\bin\Debug\net6.0\TodoAPI.pdb
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\TodoAPI.csproj.AssemblyReference.cache
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\TodoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\TodoAPI.AssemblyInfoInputs.cache
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\TodoAPI.AssemblyInfo.cs
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\TodoAPI.csproj.CoreCompileInputs.cache
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\staticwebassets\msbuild.TodoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.TodoAPI.props
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TodoAPI.props
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TodoAPI.props
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\scopedcss\bundle\TodoAPI.styles.css
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\TodoAPI.csproj.CopyComplete
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\TodoAPI.dll
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\refint\TodoAPI.dll
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\TodoAPI.pdb
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\TodoAPI.genruntimeconfig.cache
+C:\Users\s2101087\OneDrive - Business College Helsinki\dotNet\.Net\SQL-Database-Tasks\TodoAPI\obj\Debug\net6.0\ref\TodoAPI.dll
